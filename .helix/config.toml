@@ -1,0 +1,7 @@
+[editor]
+rulers = [80]
+[editor.file-picker]
+hidden = false
+[editor.auto-save.after-delay]
+enable = true
+timeout = 2000
